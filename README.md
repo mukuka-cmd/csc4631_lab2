@@ -1,2 +1,2 @@
-# csc4631_lab2
-Collaborative Git workflow
+# CSC 4631 – Lab 2  
+## Collaborative Git Workflow, Conflict Resolution & Tagging
