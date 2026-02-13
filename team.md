@@ -1,2 +1,2 @@
-Team Lead: Nosiku Mukuka
+Team Lead: Nosiku Mukuka &
 Team lead: Orsterd Zulu 
