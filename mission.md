@@ -1,2 +1,2 @@
 team lead:blessings mulenga
-added student numbers
+added student number details
